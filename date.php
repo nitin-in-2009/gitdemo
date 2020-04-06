@@ -1,3 +1,3 @@
 <?php
-echo today();
+echo date('d-M-Y');
 ?>
