@@ -1,4 +1,4 @@
 <?php 
-// Displaying php config
+// Displaying php configuration
 echo phpinfo();
 ?>
