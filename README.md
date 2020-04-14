@@ -1,4 +1,4 @@
-# Starter Demo Project
+#. Starter Demo Project
 This is a demo project for GIT
 
 ## Introduction ---
